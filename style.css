@@ -1,0 +1,38 @@
+article {
+    box-sizing: border-box;
+    border: 5px solid orange;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    padding: 15px;
+}
+
+.l_left {
+
+    padding: 15px;
+    display: block;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+.r_right {
+    padding: 15px;
+    display: block;
+    height: 15%;
+    float: right;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+}
+
+figcaption {
+    text-align: center;
+    font-size: x-large;
+
+}
